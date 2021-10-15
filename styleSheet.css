@@ -1,0 +1,20 @@
+body {
+    width:50;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+}
+
+.para1 {
+    letter-spacing: .2rem;
+}
+
+h1 {
+    letter-spacing: 0.4em;
+}
+
+div  p {
+    letter-spacing: -2px;
+}
